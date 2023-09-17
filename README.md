@@ -40,9 +40,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chinwendu-uzodinma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/uzodinmachinwendu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="chinwenduuzodinma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/chinwendu-uzodinma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Henry%20King-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/uzodinmachinwendu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Uzodinma__-blue?style=flat-square&logo=instagram"></a>
+<a href="chinwenduuzodinma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chinwenduuzodinma@gmmail-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Henry](https://github.com/Henryking98/)
