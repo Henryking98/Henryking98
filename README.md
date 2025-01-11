@@ -25,6 +25,8 @@
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Sanity](https://img.shields.io/badge/-Sanity-333333?style=flat&logo=sanity&logoColor=FF473A)
+  ![Appwrite](https://img.shields.io/badge/-Appwrite-333333?style=flat&logo=appwrite&logoColor=F02E65)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
