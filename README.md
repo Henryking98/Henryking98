@@ -20,7 +20,8 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
-  ![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABF0lEQVR42mL8//8/AyWg4PpPDVwg0wAgGo5EOzv7rwMDf+fPv/7izMlIpX1Go2dEBSABKcUl3f38/AwMjFyDTPx8fFwWAtMlIpUZiZ+AAA5DsUhzLy8nJ0cHP2HQ1cBYgAnAy4CpGGQWmBgYGzQ1JU5WrpaURQAGUJ2fXZyCXNgAApcA2sEP0rKysqLVF+urpyBz6sCrKiJQAsYAKwARlk5ONjSyScTAUHR0FGWaEZAR/2h+eXtA5jZTAjIxlClHpADNQAAAAwNFGRjcA1cEoSyAMgGYCt1I5tQhIAAJ8PAi2kEGJlGBgYFip5e3NwsACr4CiCsADUBYgYJqbi4uqpSRUdFS2trSACggYBgDcyMjIwMAxAdL+GhSXlRAAAAABJRU5ErkJggg==)
+  ![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-333333?
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB)  style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABF0lEQVR42mL8//8/AyWg4PpPDVwg0wAgGo5EOzv7rwMDf+fPv/7izMlIpX1Go2dEBSABKcUl3f38/AwMjFyDTPx8fFwWAtMlIpUZiZ+AAA5DsUhzLy8nJ0cHP2HQ1cBYgAnAy4CpGGQWmBgYGzQ1JU5WrpaURQAGUJ2fXZyCXNgAApcA2sEP0rKysqLVF+urpyBz6sCrKiJQAsYAKwARlk5ONjSyScTAUHR0FGWaEZAR/2h+eXtA5jZTAjIxlClHpADNQAAAAwNFGRjcA1cEoSyAMgGYCt1I5tQhIAAJ8PAi2kEGJlGBgYFip5e3NwsACr4CiCsADUBYgYJqbi4uqpSRUdFS2trSACggYBgDcyMjIwMAxAdL+GhSXlRAAAAABJRU5ErkJggg==)
 
   
 - 🛢 &nbsp;
