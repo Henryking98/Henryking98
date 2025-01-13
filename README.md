@@ -21,7 +21,9 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
   ![Shadcn](https://img.shields.io/badge/-Shadcn-333333?style=flat&logo=shadcn&logoColor=white)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB)  
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB)
+  ![Shadcn](https://img.shields.io/badge/-Shadcn-333333?style=flat&logo=tailwindcss&logoColor=06B6D4)
+ 
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
