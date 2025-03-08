@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/Henryking98/Henryking98/master/assets/Henry%King%20Banner.png">
 
-<h2> Hey there! I'm Henry</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Am a passionate web designer with a love for creating beautiful and functional websites.
-- 🎓 &nbsp; Studied Political Science at Nnamdi Azikiwe University and completed a web design bootcamp at Hourspent.
-- 💼 &nbsp; Over the past 3 years, I've had the privilege of working with Hourspent, where I've had the opportunity to contribute to projects.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 👋 Hi, I'm a Frontend Engineer passionate about crafting seamless and interactive web experiences.
+     I specialize in React, React Native, and modern web technologies, building responsive and scalable applications.
+- 🎓 I hold a degree in Political Science from Nnamdi Azikiwe University and completed a web design bootcamp at Hourspent.
+- 💼 With 3+ years of experience, I've worked on various projects, focusing on UI/UX, performance optimization, and implementing
+     frontend development best practices to build seamless user experiences.
+- 🚀 I'm always eager to learn, collaborate, and create impactful digital experiences.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/chinwendu-uzodinma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Henry%20King-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/uzodinmachinwendu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Uzodinma-blue?style=flat-square&logo=instagram"></a>
-<a href="Chinwenduuzodinma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chinwenduuzodinma@gmmail-blue?style=flat-square&logo=gmail"></a>
+<a href="Henixtech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Henixtech@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Henry](https://github.com/Henryking98/)
