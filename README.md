@@ -1,12 +1,14 @@
-<img src="https://raw.githubusercontent.com/Henryking98/Henryking98/master/assets/Henry%King%20Banner.png">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 Hi, I'm a Frontend Engineer passionate about crafting seamless and interactive web experiences.
-     I specialize in React, React Native, and modern web technologies, building responsive and scalable applications.
+      I specialize in React, React Native, and modern web technologies, building responsive and scalable applications.
+  
 - 🎓 I hold a degree in Political Science from Nnamdi Azikiwe University and completed a web design bootcamp at Hourspent.
+  
 - 💼 With 3+ years of experience, I've worked on various projects, focusing on UI/UX, performance optimization, and implementing
      frontend development best practices to build seamless user experiences.
+  
 - 🚀 I'm always eager to learn, collaborate, and create impactful digital experiences.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
