@@ -6,7 +6,7 @@
   
 - 🎓 I hold a degree in Political Science from Nnamdi Azikiwe University and completed a web design bootcamp at Hourspent.
   
-- 💼 With 3+ years of experience, I've worked on various projects, focusing on UI/UX, performance optimization, and implementing
+- 💼 With 5+ years of experience, I've worked on various projects, focusing on UI/UX, performance optimization, and implementing
      frontend development best practices to build seamless user experiences.
   
 - 🚀 I'm always eager to learn, collaborate, and create impactful digital experiences.
