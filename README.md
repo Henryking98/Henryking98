@@ -30,8 +30,7 @@
   ![Sanity](https://img.shields.io/badge/-Sanity-333333?style=flat&logo=sanity&logoColor=FF473A)
   ![Appwrite](https://img.shields.io/badge/-Appwrite-333333?style=flat&logo=appwrite&logoColor=F02E65)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-  ![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=neon&logoColor=00E599)
-
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
